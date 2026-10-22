@@ -12,7 +12,7 @@ When you choose to download a wallpaper, the image is saved to the configured do
 
 ## Network requests and third parties
 
-The app needs internet access to retrieve wallpaper catalogue data, wallpaper thumbnails and images, and remote creator or asset images shown in the About screen. The current catalogue is [hosted on GitHub](https://raw.githubusercontent.com/user774820/wallrepos/refs/heads/main/wavywalls.json). That catalogue can link to wallpaper files hosted by other services. The app also opens external websites when you choose a link in the app.
+The app needs internet access to retrieve wallpaper catalogue data, wallpaper thumbnails and images, and remote creator or asset images shown in the About screen. The current catalogue is hosted on GitHub. That catalogue can link to wallpaper files hosted by other services. The app also opens external websites when you choose a link in the app.
 
 The GitHub and other content hosts receive ordinary connection data needed to serve requests, such as your IP address, requested URL, request time, and standard network or device connection metadata. Those providers handle their server logs under their own privacy policies. The app does not control their collection, retention, or use of that information.
 

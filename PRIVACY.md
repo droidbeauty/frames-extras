@@ -11,6 +11,10 @@ This policy describes the current Frames-sample app configuration (`Frames`, app
 - Google Play developer ID: 7791472155222642322
 - Postal address: Białystok - 15-657, Poland (PL)
 
+## Frames dashboard source project
+
+Frames is built on the Frames dashboard project. You can review the dashboard's source code on [GitHub](https://github.com/jahirfiquitiva/Frames/).
+
 ## Information and app data
 
 The app does not require an account or ask for a name, email address, or profile. It stores app settings and feature data on the device, which can include the selected language and theme, download and display preferences, favorite-wallpaper references, cached catalogue data, thumbnails, and wallpaper images. The app does not send this locally stored preference or favorites data to the app publisher.
@@ -47,4 +51,4 @@ The app does not request age or account information and is not designed to colle
 
 ## Policy changes and contact
 
-This policy should be revised when the app's data sources, permissions, billing, or integrations change. No dedicated privacy email address is configured in this project. For privacy questions about a distributed build, contact its publisher through the app's [Google Play developer page](https://play.google.com/store/apps/dev?id=7791472155222642322) or the publisher's support channels.
+This policy should be revised when the app's data sources, permissions, billing, or integrations change. For privacy questions about a distributed build, email [droidbeautycontact@gmail.com](mailto:droidbeautycontact@gmail.com) or contact the publisher through the app's [Google Play developer page](https://play.google.com/store/apps/dev?id=7791472155222642322).

@@ -2,18 +2,17 @@
 
 Effective date: October 25, 2026
 
-This policy describes the current Frames-sample app configuration (`Frames`, application ID `dev.jahir.frames.app`). A customized build may use a different wallpaper catalogue, publisher, or integrations; its publisher should update this policy before distribution if its data practices differ.
+This policy applies to the Arthea Wallpapers and Wavy Wallpapers Android apps published on Google Play by Droid Beauty. Both apps use Frames as their dashboard and main user interface. It describes the privacy practices of these two apps.
 
-## App and developer details
+## Developer details
 
-- App name: Frames
 - Developer: Droid Beauty
 - Google Play developer ID: 7791472155222642322
 - Postal address: Białystok - 15-657, Poland (PL)
 
-## Frames dashboard source project
+## Frames dashboard and source project
 
-Frames is built on the Frames dashboard project. You can review the dashboard's source code on [GitHub](https://github.com/jahirfiquitiva/Frames/).
+Arthea Wallpapers and Wavy Wallpapers both use Frames as their dashboard (main UI). The Frames source project is available on [GitHub](https://github.com/jahirfiquitiva/Frames/).
 
 ## Information and app data
 

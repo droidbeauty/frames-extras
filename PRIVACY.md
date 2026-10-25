@@ -1,8 +1,15 @@
 # Privacy Policy
 
-Effective date: October 22, 2026
+Effective date: October 25, 2026
 
 This policy describes the current Frames-sample app configuration (`Frames`, application ID `dev.jahir.frames.app`). A customized build may use a different wallpaper catalogue, publisher, or integrations; its publisher should update this policy before distribution if its data practices differ.
+
+## App and developer details
+
+- App name: Frames
+- Developer: Droid Beauty
+- Google Play developer ID: 7791472155222642322
+- Postal address: Białystok - 15-657, Poland (PL)
 
 ## Information and app data
 
